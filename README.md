@@ -1,5 +1,8 @@
 # coding_challenge-11
 
+
+[![security status](https://www.meterian.io/badge/pb/c3130669-1990-4fbe-b4cc-c39cc908b9f6/security)](https://www.meterian.io/projects/?pid=c3130669-1990-4fbe-b4cc-c39cc908b9f6) [![stability status](https://www.meterian.io/badge/pb/c3130669-1990-4fbe-b4cc-c39cc908b9f6/stability)](https://www.meterian.io/projects/?pid=c3130669-1990-4fbe-b4cc-c39cc908b9f6) [![licensing status](https://www.meterian.io/badge/pb/c3130669-1990-4fbe-b4cc-c39cc908b9f6/licensing)](https://www.meterian.io/projects/?pid=c3130669-1990-4fbe-b4cc-c39cc908b9f6)
+
 This coding challenge is all about **working with a designer and building a project for a client as if you just started a development company**. You will have to meet a deadline and finish a website (which you will be able to add to your portfolio) based on the design requirements of the client. A very valuable skill to learn. Let's get srated!
 
 Please Use the **#coding-challenge** channel on Discord to discuss and share your work. At the end of the challenge, I will compile everyone's submitted websites on here.
